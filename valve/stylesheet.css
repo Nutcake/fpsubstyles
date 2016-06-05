@@ -1,0 +1,36 @@
+body {
+ background-color: #333333;
+}
+
+#content-wrapper {
+background-image: url("http://u08.imgup.net/53097_funn18da.jpg");
+background-position:  center top;
+}
+
+.row.clearfix {
+background-color: #ffaa22;
+}
+
+.header{
+background-color: #333333 !important;
+}
+
+.row.navigation {
+background-color: #ffaa22;
+}
+
+.thread.shadow.ng-scope.read{
+background-color: #333333;
+font-family: "Roboto Thin", "SFNS Display", Corbel;
+}
+
+.container.ng-scope {
+animation-name: test;
+animation-duration: 2s;
+background-color: #333333;
+}
+
+@keyframes test {
+from {top: 2000px};
+to {top: 0px};
+}
